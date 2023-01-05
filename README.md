@@ -1,13 +1,30 @@
-# Discount-finder
-## What is Discount-finder?
-**Discount-finder** is your new personal shopping tool to find discounts and save money. 
-With Discount-finder, you will easily get the discount information that you might ignore on the way home carelessly. You will know the product, location, picture, description, original price, and discounted price. The like and dislike button shows the popularity of the product and the comments give you more suggestions on if this product deserves it.
-We invite you to make Discount-finder great. After you register the account, you can add the discount that you catch in your daily life to share with everyone, and edit and delete your own posts. We offer you the bookmark icon to save the posts that help you or you want to check later. You have the access to comment on any posts and share your experiences.
-So far, we only concentrate on electronic products and offer the filter and sort bar to make the posts clear. Categories in the filter are laptops, smartphones, headsets, and ipads. You can sort by the date and price ascending and descending. The search bar works with name, location, category, and description.
-You can enter Discount-finder both in desktop and mobile way.
+![Web Application logo](https://github.com/laurenthat/Discount-finder/blob/main/images/Discount%20Finder.png "Logo Title Text")
+![GitHub repo size](https://img.shields.io/github/repo-size/laurenthat/Discount-finder?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/laurenthat/Discount-finder?style=flat-square)
 
-## Who we are?
-Takes 3 To Write console.log('Hello world')
-* Darja Polevaja
-* Laurentiu Sebastian Hategan
-* Ying Zhang
+## Description
+Discount finder is a web application designed to help users find discounts and save money.
+
+## Installation
+Clone the repository by `git clone https://github.com/laurenthat/Discount-finder.git`
+
+## Features
+
+- logged in users are allowed to upload a post of a discount. This post would include product name, location, picture, short description, original price as well as discounted price
+- each post can receive feedback (like, dislike, comment) from logged in users
+- The website offers a search functionality where users can search the products by name, location, category and description
+- logged in users can only create, edit and delete their own posts
+- The website is based on a responsive user interface
+
+## Implementation
+
+Back-end: Node+MySQL
+Front-end: JavaScript+HTML+CSS
+
+## Collaborators
+<a href="https://github.com/laurenthat/Discount-finder/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=laurenthat/Discount-finder" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
